@@ -1,6 +1,6 @@
 # redeye_gangmissions
 
-## مقدمة
+## 
 `redeye_gangmissions` سكربت مهام للعصابات.
 
 ## المميزات
