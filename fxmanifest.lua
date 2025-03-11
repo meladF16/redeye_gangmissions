@@ -20,6 +20,5 @@ escrow_ignore {
 	'config.lua',
 	'client/client.lua',
 	'server/server.lua',
-	'server/version_check.lua',
 }
 dependency '/assetpacks'
