@@ -11,10 +11,10 @@
 - **دعم متعدد اللاعبين**: يتناسب مع خوادم متعددة اللاعبين ويمكن تخصيصه ليتناسب مع أسلوب اللعب الخاص بالخادم.
 
 # صور للسكربت
-
-![image3](https://github.com/user-attachments/assets/417e683d-b687-49ec-890c-c71f781c04e5)
-![image2](https://github.com/user-attachments/assets/49733e53-b699-46df-b320-e9cd8c596860)
 ![image1](https://github.com/user-attachments/assets/5c186724-9f03-4cf6-9448-6e291a8fac1d)
+![image2](https://github.com/user-attachments/assets/49733e53-b699-46df-b320-e9cd8c596860)
+![image3](https://github.com/user-attachments/assets/417e683d-b687-49ec-890c-c71f781c04e5)
+
 
 
 ## كيفية التثبيت
